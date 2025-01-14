@@ -1,0 +1,49 @@
+.FlexIndex {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.TailWind {
+    color: white;
+    font-size: 32px;
+    margin-top: 30px;
+}
+
+.Bootstrap {
+    color: white;
+    font-size: 32px;
+}
+
+.BootText {
+    color: white;
+    transition: color 0.5s;
+}
+
+.TailText {
+    color: white;
+    transition: color 0.5s;
+}
+
+.TailText:hover {
+    color: cyan;
+}
+
+.BootText:hover {
+    color: purple
+}
+
+body {
+    background-color: rgb(31, 26, 26);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: white
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
