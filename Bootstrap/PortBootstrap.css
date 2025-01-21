@@ -24,6 +24,8 @@
 .hero {
     background-color: black;
     height: 700px;
+    border-bottom: 1px dashed #fff;
+
 }
 
 .hero h2 {
@@ -47,6 +49,44 @@
 
 .hero-designer {
     color: antiquewhite;
+}
+
+.about-me {
+    background-color: black;
+    height: 500px;
+    border-bottom: 1px dashed #fff; 
+}
+
+.about-me h2 {
+    font-family: "LEMON-MILK";
+    font-size: 32px;
+    margin: 0px;
+    height:200px;
+    padding-top: 150px;
+    color: whitesmoke;
+    border-bottom: 2px dashed white;
+}
+
+.about-me span {
+    color: whitesmoke;
+    font-family: "Sora-Regular";
+    padding-top: 150px;
+    font-size: 24px;
+}
+
+.projects {
+    background-color: black;
+    height: 500px;
+    border-bottom: 1px dashed #fff; 
+}
+
+.projects h2 {
+    font-family: "LEMON-MILK";
+    font-size: 32px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 50px;
+    color: whitesmoke;
 }
 
 button {
